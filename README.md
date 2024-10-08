@@ -22,6 +22,8 @@ O design é simples e funcional, com uma transparência que integra o player e a
 
 ## 📂 Estrutura do Projeto
 
+![image](https://github.com/user-attachments/assets/044ceb69-0754-41ca-adfc-294c52ec6140)
+
 
 Carmel-Music-Player/
 │
