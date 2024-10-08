@@ -1,8 +1,9 @@
 # 🎶 Carmel Music Player
 
-## 🔗 Link do projeto no Drive
+## 📦 Link do projeto .RAR no Drive
 
-- https://drive.google.com/drive/folders/1Os4xvd9KAzEb0ct_ThIQId1pho9FuNLp?usp=sharing
+- https://drive.google.com/file/d/1I9hsDZ6e5HyD-NzaYdoJHj3tl6yPkKHt/view?usp=sharing
+- 
 
 O **Carmel Music Player** é um player simples que traz 5 músicas marcantes dos anos 90. 🎤✨
 
@@ -23,6 +24,10 @@ O design é simples e funcional, com uma transparência que integra o player e a
 - CSS
 - JavaScript
 - Bootstrap
+
+## 🔗 Link do projeto no Drive
+
+- https://drive.google.com/drive/folders/1Os4xvd9KAzEb0ct_ThIQId1pho9FuNLp?usp=sharing
 
 ## 📂 Estrutura do Projeto
 
