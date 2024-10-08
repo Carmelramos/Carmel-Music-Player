@@ -23,34 +23,4 @@ O design é simples e funcional, com uma transparência que integra o player e a
 ## 📂 Estrutura do Projeto
 
 ![image](https://github.com/user-attachments/assets/044ceb69-0754-41ca-adfc-294c52ec6140)
-
-
-Carmel-Music-Player/
-│
-├── ass/
-│   ├── img/ 
-|   |    │── capa1.jpg
-|   |    │── capa2.jpg
-|   |    │── capa3.jpg
-|   |    │── capa4.jpg
-|   |    │── capa5.jpg
-|   |    └── Carmel.png          
-│   ├── mus/
-|   |    │── musica1.mp3
-|   |    │── musica2.mp3
-|   |    │── musica3.mp3
-|   |    │── musica4.mp3
-|   |    └── musica5.mp3            
-│   └── videos/
-|        │── clipe1.mp4
-|        │── clipe2.mp4
-|        │── clipe3.mp4
-|        │── clipe4.mp4
-|        └── clipe5.mp4         
-├── CSS/
-│   └── style.css       
-├── Javascript/
-│   └── script.js       
-│
-├── index.html          
-└── README.md           
+   
