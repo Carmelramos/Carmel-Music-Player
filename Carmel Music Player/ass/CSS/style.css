@@ -1,0 +1,154 @@
+/* Estilos Globais */
+body {
+    background-color: #121212;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    position: relative;
+}
+
+/* Navbar */
+.navbar {
+    background-color: rgba(0, 0, 0, 0.7); /* Transparência de 70% */
+}
+
+/* Vídeo de fundo */
+#videoBackgroundContainer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+    overflow: hidden;
+}
+
+#videoBackground {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+    z-index: -2;
+}
+
+/* Camada de vinheta */
+#videoOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: -1;
+}
+
+/* Posicionamento da imagem no canto superior esquerdo */
+.logo {
+    width: 200px;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 50px;
+}
+
+/* Player e controles */
+#albumCover {
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.controls button {
+    width: 50px;
+    height: 50px;
+    font-size: 1.5em;
+    color: white;
+}
+
+button:focus {
+    outline: none;
+}
+
+/* Estilos adicionais para a barra de progresso */
+.form-range {
+    height: 8px;
+    border-radius: 5px;
+    background: #333;
+}
+
+.form-range::-webkit-slider-thumb {
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    background: #007bff;
+    border-radius: 50%;
+}
+
+/* Player com transparência */
+.player {
+    background-color: rgba(0, 0, 0, 0.6); /* Fundo escuro com 60% de opacidade */
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(10px); /* Aumentando o efeito de desfoque */
+    opacity: 0.7; /* Mais transparência */
+}
+
+/* Estilos para a aba lateral da lista de músicas */
+#sidebar {
+    position: fixed;
+    right: -250px;
+    top: 0;
+    width: 250px;
+    height: 100%;
+    background-color: rgba(52, 58, 64, 0.7); /* Transparência de 70% */
+    transition: right 0.4s ease;
+    z-index: 999;
+    backdrop-filter: blur(10px); /* Aumentando o efeito de desfoque */
+    opacity: 0.7; /* Transparência para a lista de músicas */
+}
+
+#sidebar.show {
+    right: 0;
+}
+
+#sidebar h3 {
+    margin-top: 20px;
+}
+
+#trackList li {
+    padding: 10px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    cursor: pointer;
+}
+
+#trackList li:hover {
+    background-color: rgba(73, 80, 87, 0.7);
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7); /* Transparência de 70% */
+    color: white;
+}
+
+/* Estilos para o botão de loop */
+#loop.active {
+    background-color: #28a745 !important; /* Indica que o loop está ativo */
+}
+
+/* Estilos para o botão de shuffle */
+#shuffle.active {
+    background-color: #28a745 !important; /* Indica que o shuffle está ativo */
+}
+#shuffle:hover {
+    background-color: #ffc107;
+}
