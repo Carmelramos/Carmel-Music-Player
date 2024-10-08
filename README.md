@@ -3,16 +3,17 @@
 ## 📦 Link do projeto .RAR no Drive
 
 - https://drive.google.com/file/d/1I9hsDZ6e5HyD-NzaYdoJHj3tl6yPkKHt/view?usp=sharing
-- 
 
-O **Carmel Music Player** é um player simples que traz 5 músicas marcantes dos anos 90. 🎤✨
+##
+
+### 🕺 💿 O **Carmel Music Player** é um player simples que traz 5 músicas marcantes dos anos 90. 🎤✨
 
 ## 🎵 Funcionalidades
 
-- **Ouça e assista:** Escute a música e assista ao clipe ao mesmo tempo.
-- **Controles básicos:** Tocar, pausar, parar e navegar entre as faixas.
-- **Loop e Shuffle:** Funcionalidades para repetir a música atual ou tocar faixas aleatórias.
-- **Lista de músicas:** Uma aba lateral que permite selecionar manualmente as músicas.
+- 🔊📺 **Ouça e assista**: Escute a música e assista ao clipe ao mesmo tempo.
+- 🎮 **Controles básicos**: Tocar, pausar, parar e navegar entre as faixas.
+- 🔁🔀 **Loop e Shuffle**: Funcionalidades para repetir a música atual ou tocar faixas aleatórias.
+- 📋🎤 **Lista de músicas**: Uma aba lateral que permite selecionar manualmente as músicas.
 
 ## 🎨 Design
 
@@ -20,10 +21,10 @@ O design é simples e funcional, com uma transparência que integra o player e a
 
 ## 🛠️ Tecnologias Usadas
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+- HTML 💻
+- CSS 🎨
+- JavaScript ☕
+- Bootstrap ⚙️
 
 ## 🔗 Link do projeto no Drive
 
