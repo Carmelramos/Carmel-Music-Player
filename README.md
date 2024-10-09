@@ -10,7 +10,7 @@
 
 ## 🎵 Funcionalidades
 
-- 🔊📺 **Ouça e assista**: Escute a música e assista ao clipe ao mesmo tempo.
+- 🔊📺 **Ouça e assista**: Escute a música e assista ao clipe ao mesmo tempo, como gostávamos de fazer naquela época..
 - 🎮 **Controles básicos**: Tocar, pausar, parar e navegar entre as faixas.
 - 🔁🔀 **Loop e Shuffle**: Funcionalidades para repetir a música atual ou tocar faixas aleatórias.
 - 📋🎤 **Lista de músicas**: Uma aba lateral que permite selecionar manualmente as músicas.
