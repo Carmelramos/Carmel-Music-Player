@@ -1,6 +1,6 @@
 # 🎶 Carmel Music Player
 
-## 📦 Link do projeto .RAR no Drive
+## 📦 Link do projeto .RAR para Download
 
 - https://drive.google.com/file/d/1I9hsDZ6e5HyD-NzaYdoJHj3tl6yPkKHt/view?usp=sharing
 
